@@ -11,10 +11,6 @@ By applying various SQL techniques, the project ensured data integrity and accur
 
 The project is structured as follows:
 
-- **data/**: Directory containing the raw dataset.
-- **scripts/**: Directory containing the SQL scripts used for data cleaning.
-- **results/**: Directory containing the cleaned dataset.
-
 ## Steps Involved
 
 ### 1. Handling Missing Values
